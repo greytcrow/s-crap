@@ -1,0 +1,2 @@
+require ../lib/townhall.rb
+
